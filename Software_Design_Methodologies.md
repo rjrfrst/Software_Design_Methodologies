@@ -15,6 +15,7 @@ There is no scenario where one of these strategies can't be used, but we may be 
 Within each methodology there are various design patterns which provide further structure for us. In general though these are much more easily transferred across methodologies, although the precise implementation will vary by language. In practice the language used for a project will likely be the last thing to be chosen, determined by a combination of methodology and design pattern.
 
 --Task
+
 In this exercise you will be required to research the design strategies listed above and answer some questions about them. Your answers should be in a markdown (.md) file and uploaded to GitHub, then the link submitted using the lab submission form. There is no MVP/extension split for this task - you should attempt to answer every question. You can collaborate with others in the cohort on the research part of the task but everyone should submit their own answers.
 
 1. What do we mean by coupling and cohesion when discussing structured design?
