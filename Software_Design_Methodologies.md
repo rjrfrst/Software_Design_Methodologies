@@ -27,7 +27,8 @@ The bottom-up design is normally based on composition, which can be very difficu
 
 
 3. In which design methodology would a class diagram be most useful?
-Object orientated design 
+
+Object orientated design. A class diagram can represent a class and their properties and methods which is useful for Object Oriented Programming.
 
 
 4. What are the four pillars of object oriented programming? Give a single-sentence description of each.
@@ -52,6 +53,7 @@ Polymorphism means "the condition of occurring in several different forms.". Thi
 
 The way the Strategy Design Pattern operates is by isolating an object's behaviour from the thing itself. 
 The behaviour is broken down into several strategies, each of which carries out the behaviour in a unique way.
+The strategy pattern normally implemented with classes and interfaces (inheritance also).  
 
 
 6. Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.
